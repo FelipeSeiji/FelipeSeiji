@@ -1,59 +1,42 @@
-<h2 align="left">Hi there, welcome to my Github profile</h2>
+# Hi there, I'm Felipe Seiji 👋
 
-###
+Software Engineering student focused on **Backend Development (Java / Spring Boot)**, **Systems Architecture**, and **IT Infrastructure / Security**.
 
-<h2 align="left">About Me</h2>
+---
 
-###
+### 🚀 About Me
+- 🎓 **Education:** Software Engineering @ UMC | Web Development @ Anhanguera
+- 🛠️ **Current Focus:** Developing scalable RESTful APIs with **Java 21**, **Spring Boot**, and implementing robust security standards (2FA, JWT, Argon2id).
+- 💼 **Experience:** IT Support & Infrastructure (Active Directory, Helpdesk, Network Maintenance) @ TV Diário (Globo Affiliate).
+- 📌 **Featured Project:** Building **INVEST+**, an automated portfolio rebalancing system.
 
-<h6 align="left">Backend Software Developer with over 3 years of studies and some experience in the IT area, with university projects, looking for an internship opportunity as a backend developer, who can contribute with knowledge in Java and C#, in addition to relational databases, such as MySQL and PostgreSQL, as well as Docker for containerization and creation of environments for tests and applications, and Git for code versioning.</h6>
+---
 
-###
+### 💻 Tech Stack & Tools
 
-<h2 align="left">My Techs</h2>
+**Languages & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-###
+**Databases & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 📊 GitHub Stats
 
-<h2 align="left"></h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeSeiji&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeiji&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeSeiji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipe-seiji-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/felipe_seiji_namiyama/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-seiji-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fenishina@gmail.com)
