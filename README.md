@@ -13,10 +13,22 @@
 
 <br>
 
-<!-- GRÁFICO 3D ISOMÉTRICO -->
+<!-- GRÁFICO 3D ISOMÉTRICO DE COMMITS -->
 <div align="center">
   <h3>🏙️ Gráfico Isométrico 3D de Commits</h3>
   <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<hr>
+
+<!-- PORTAL 3D INTERATIVO -->
+<div align="center">
+  <h3>🎮 Experiência 3D Interativa</h3>
+  <p>Clique no botão abaixo para manipular o modelo 3D em tempo real diretamente no seu navegador:</p>
+  
+  <a href="https://FelipeSeiji.github.io/3d-avatar/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ABRIR_EXPERIÊNCIA_3D_INTERATIVA-00F5D4?style=for-the-badge&logoColor=black" alt="Abrir Modelo 3D" />
+  </a>
 </div>
 
 <hr>
