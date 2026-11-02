@@ -6,29 +6,25 @@
 
   <br><br>
 
-  <!-- BADGES DE STATUS E VISITAS -->
+  <!-- BADGES DE STATUS 3D -->
   <img src="https://komarev.com/ghpvc/?username=FelipeSeiji&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/FelipeSeiji?label=Followers&logo=github&style=for-the-badge&color=7928CA" />
+  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_Projetos-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" />
 </div>
 
 <br>
 
-<!-- GRÁFICO 3D ISOMÉTRICO DE COMMITS -->
+<!-- ELEMENTO 3D EM ROTAÇÃO CONTÍNUA (RODA DIRETO NA TELA SEM LINK) -->
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="3D Developer Animation" width="60%" style="border-radius: 12px;" />
+</div>
+
+<br>
+
+<!-- GRÁFICO ISOMÉTRICO 3D DE COMMITS -->
 <div align="center">
   <h3>🏙️ Gráfico Isométrico 3D de Commits</h3>
   <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-<hr>
-
-<!-- PORTAL 3D INTERATIVO -->
-<div align="center">
-  <h3>🎮 Experiência 3D Interativa</h3>
-  <p>O GitHub limita a manipulação 3D direta no README. Clique no botão abaixo para rodar e interagir com o modelo em tempo real:</p>
-  
-  <a href="https://felipeseiji.github.io/FelipeSeiji/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_ABRIR_EXPERIÊNCIA_3D_INTERATIVA-00F5D4?style=for-the-badge&logoColor=black" alt="Abrir Modelo 3D Interativo" />
-  </a>
 </div>
 
 <hr>
@@ -41,11 +37,35 @@
 
 <hr>
 
-### 💻 Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas (Exibição 3D Direta)
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,activedirectory,git,github,docker,linux,vscode,bash&perline=6" />
-  </a>
+  <!-- ÍCONES 3D (APENAS EXIBIÇÃO DIRETA, SEM REDIRECIONAMENTO) -->
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/java.png" alt="Java" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/spring_boot.png" alt="Spring Boot" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/python.png" alt="Python" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/postgresql.png" alt="PostgreSQL" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/mysql.png" alt="MySQL" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/redis.png" alt="Redis" width="55" height="55" />
+  
+  <br><br>
+
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/docker.png" alt="Docker" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/linux.png" alt="Linux" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/git.png" alt="Git" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/github.png" alt="GitHub" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/visual_studio_code.png" alt="VS Code" width="55" height="55" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/bash.png" alt="Bash" width="55" height="55" />
+
+  <br><br>
+
+  <!-- EMBLEMAS 3D PLASTIC -->
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=plastic&logo=openjdk&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=plastic&logo=windows&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Linux_WSL2-FCC624?style=plastic&logo=linux&logoColor=black" height="30" />
 </div>
 
 <hr>
@@ -59,7 +79,7 @@
 
 <hr>
 
-<!-- PAINEL EXPANSÍVEL INTERATIVO -->
+<!-- INTERAÇÃO NATIVA DE EXPANDIR AO CLICAR -->
 <details>
   <summary><b>🛠️ Ver Setup & Ambiente de Desenvolvimento (Clique para expandir)</b></summary>
   <br>
@@ -74,10 +94,7 @@
 
 ### 📬 Conecte-se Comigo
 <div align="center">
-  <a href="https://linkedin.com/in/felipe-seiji-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fenishina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=plastic&logo=github&logoColor=white" height="38" />
 </div>
