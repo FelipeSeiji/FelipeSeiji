@@ -13,19 +13,10 @@
 
 <br>
 
-<!-- ELEMENTO 3D 1: GRÁFICO ISOMÉTRICO 3D (VISTA NOTURNA) -->
+<!-- GRÁFICO 3D ISOMÉTRICO -->
 <div align="center">
-  <h3>🏙️ Visão Isométrica 3D dos Commits</h3>
-  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph Night" width="100%" />
-</div>
-
-<br>
-
-<!-- ELEMENTO 3D 2: CIDADE 3D INTERATIVA (GITHUB SKYLINE) -->
-<div align="center">
-  <a href="https://skyline.github.com/FelipeSeiji" target="_blank">
-    <img src="https://img.shields.io/badge/🏙️_Explorar_Minha_Cidade_3D_de_Código_no_GitHub_Skyline-00F5D4?style=for-the-badge&logoColor=black" alt="GitHub Skyline 3D" />
-  </a>
+  <h3>🏙️ Gráfico Isométrico 3D de Commits</h3>
+  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/isometric-contributions/isometric-contributions.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <hr>
@@ -43,13 +34,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,activedirectory,git,github,docker,linux,vscode,bash&perline=6" />
   </a>
-</div>
-
-<br>
-
-<!-- ELEMENTO 3D 3: ANIMAÇÃO 3D SAZONAL -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Animation" width="100%" />
 </div>
 
 <hr>
