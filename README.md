@@ -1,44 +1,87 @@
-# Olá, eu sou o Felipe Seiji 👋
+<div align="center">
+  <!-- TYPEWRITER ANIMADO -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Seiji!+%F0%9F%90%A7;Engenheiro+de+Software+%26+Dev+Backend;Especialista+em+Java+21+%2F+Spring+Boot;Redes%2C+Infraestrutura+%26+Seguran%C3%A7a+TI" alt="Typing SVG" />
+  </a>
 
-Estudante de **Engenharia de Software** e **Desenvolvimento Web**, focado em **Desenvolvimento Backend (Java / Spring Boot)**, **Redes de Computadores** e **Infraestrutura / Segurança de TI**.
+  <br><br>
 
----
+  <!-- BADGES DE STATUS E VISITAS -->
+  <img src="https://komarev.com/ghpvc/?username=FelipeSeiji&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FelipeSeiji?label=Followers&logo=github&style=for-the-badge&color=7928CA" />
+</div>
+
+<br>
+
+<!-- ELEMENTO 3D 1: GRÁFICO ISOMÉTRICO 3D (VISTA NOTURNA) -->
+<div align="center">
+  <h3>🏙️ Visão Isométrica 3D dos Commits</h3>
+  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph Night" width="100%" />
+</div>
+
+<br>
+
+<!-- ELEMENTO 3D 2: CIDADE 3D INTERATIVA (GITHUB SKYLINE) -->
+<div align="center">
+  <a href="https://skyline.github.com/FelipeSeiji" target="_blank">
+    <img src="https://img.shields.io/badge/🏙️_Explorar_Minha_Cidade_3D_de_Código_no_GitHub_Skyline-00F5D4?style=for-the-badge&logoColor=black" alt="GitHub Skyline 3D" />
+  </a>
+</div>
+
+<hr>
 
 ### 🚀 Sobre Mim
 - 🎓 **Formação:** Engenharia de Software @ UMC | Desenvolvimento Web @ Anhanguera
 - 🌐 **Foco Profissional:** Administração de **Redes de Computadores**, **Segurança da Informação** e Desenvolvimento de APIs RESTful escaláveis em **Java 21 / Spring Boot**.
-- 💼 **Experiência:** Estagiário de Suporte em TI @ TV Diário (Afiliada Globo) — Atuação presencial e remota com Helpdesk/Service Desk, gerenciamento de acessos via **Active Directory (AD)** e manutenção de redes locais.
+- 💼 **Experiência:** Estagiário de Suporte em TI @ TV Diário (Afiliada Globo) — Helpdesk/Service Desk, gerenciamento de acessos via **Active Directory (AD)** e manutenção de infraestrutura.
 - 📌 **Projeto em Destaque:** Construção do **INVEST+**, sistema backend em Java para automação e rebalanceamento de carteiras de investimento.
 
----
+<hr>
 
 ### 💻 Tecnologias & Ferramentas
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,activedirectory,git,github,docker,linux,vscode,bash&perline=6" />
+  </a>
+</div>
 
-**Linguagens & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
-**Bancos de Dados & ORM**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ELEMENTO 3D 3: ANIMAÇÃO 3D SAZONAL -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Animation" width="100%" />
+</div>
 
-**Redes, Infraestrutura & Segurança**
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+<hr>
 
 ### 📡 Redes, Infraestrutura & Especialidades
-- 🌐 **Redes de Computadores & Infraestrutura:** Configuração e monitoramento de redes locais (LAN), protocolos de conectividade, diagnósticos de conexões, manutenção preventiva/corretiva de hardware e atendimento Helpdesk / Service Desk.
+- 🌐 **Redes de Computadores & Infraestrutura:** Configuração e monitoramento de redes locais (LAN), protocolos de conectividade, diagnósticos de conexões e manutenção preventiva/corretiva.
 - 🔑 **Administração de Acessos:** Gerenciamento de contas, permissões, grupos e diretivas corporativas via **Active Directory (AD)**.
-- 🔒 **Segurança da Informação:** Autenticação e Autorização (JWT, 2FA), algoritmos de hashing (Argon2id), criptografia e elaboração de políticas de segurança e LGPD.
-- ☕ **Desenvolvimento Backend:** Java 21/25, Spring Boot (MVC & WebFlux), Hibernate/JPA, Maven, Arquitetura de APIs RESTful e Princípios SOLID.
+- 🔒 **Segurança da Informação:** Autenticação e Autorização (JWT, 2FA), algoritmos de hashing (Argon2id), criptografia e políticas de segurança / LGPD.
+- ☕ **Desenvolvimento Backend:** Java 21/25, Spring Boot (MVC & WebFlux), Hibernate/JPA, Maven, APIs RESTful e SOLID.
 - 🤖 **Internet das Coisas (IoT):** Desenvolvimento de sistemas de monitoramento com ESP32, MicroPython e protocolo MQTT.
 
----
+<hr>
+
+<!-- PAINEL EXPANSÍVEL INTERATIVO -->
+<details>
+  <summary><b>🛠️ Ver Setup & Ambiente de Desenvolvimento (Clique para expandir)</b></summary>
+  <br>
+  
+  - 💻 **Sistema Operacional:** Windows 11 + WSL2 (Ubuntu & Alpine Linux)
+  - 🖥️ **Monitor:** Monitor Gaming AOC via DisplayPort
+  - 🐳 **Ambiente Containerizado:** Docker Desktop & Redis
+  - 🛠️ **Ferramentas:** Visual Studio Code, Git CLI, RedisInsight & Postman
+</details>
+
+<hr>
 
 ### 📬 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-seiji-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fenishina@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/felipe-seiji-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fenishina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
