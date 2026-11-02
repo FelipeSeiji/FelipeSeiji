@@ -24,10 +24,10 @@
 <!-- PORTAL 3D INTERATIVO -->
 <div align="center">
   <h3>🎮 Experiência 3D Interativa</h3>
-  <p>Clique no botão abaixo para manipular o modelo 3D em tempo real diretamente no seu navegador:</p>
+  <p>O GitHub limita a manipulação 3D direta no README. Clique no botão abaixo para rodar e interagir com o modelo em tempo real:</p>
   
-  <a href="https://FelipeSeiji.github.io/3d-avatar/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_ABRIR_EXPERIÊNCIA_3D_INTERATIVA-00F5D4?style=for-the-badge&logoColor=black" alt="Abrir Modelo 3D" />
+  <a href="https://felipeseiji.github.io/FelipeSeiji/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ABRIR_EXPERIÊNCIA_3D_INTERATIVA-00F5D4?style=for-the-badge&logoColor=black" alt="Abrir Modelo 3D Interativo" />
   </a>
 </div>
 
