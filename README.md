@@ -6,15 +6,15 @@
 
   <br><br>
 
-  <!-- BADGES DE STATUS 3D -->
+  <!-- BADGES DE STATUS 3D E ESTATÍSTICAS -->
   <img src="https://komarev.com/ghpvc/?username=FelipeSeiji&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FelipeSeiji?label=Followers&logo=github&style=for-the-badge&color=7928CA" />
-  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_Projetos-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" />
+  <img src="https://img.shields.io/github/followers/FelipeSeiji?label=Followers&logo=github&style=for-the-badge&color=7928CA" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_Projetos-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
 </div>
 
 <br>
 
-<!-- ELEMENTO 3D EM ROTAÇÃO CONTÍNUA (RODA DIRETO NA TELA SEM LINK) -->
+<!-- ELEMENTO 3D EM ROTAÇÃO CONTÍNUA -->
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="3D Developer Animation" width="60%" style="border-radius: 12px;" />
 </div>
@@ -25,6 +25,18 @@
 <div align="center">
   <h3>🏙️ Gráfico Isométrico 3D de Commits</h3>
   <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<hr>
+
+<!-- BOTÃO DE ACESSO AO MODELO 3D INTERATIVO (GITHUB PAGES) -->
+<div align="center">
+  <h3>🎮 Experiência 3D Interativa em Tempo Real</h3>
+  <p>Clique no botão abaixo para manipular, rodar e interagir com o modelo Three.js em tela cheia:</p>
+  
+  <a href="https://felipeseiji.github.io/FelipeSeiji/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ABRIR_MODELO_3D_INTERATIVO-00F5D4?style=for-the-badge&logoColor=black" alt="Abrir Modelo 3D Interativo" />
+  </a>
 </div>
 
 <hr>
@@ -40,7 +52,7 @@
 ### 💻 Tecnologias & Ferramentas (Exibição 3D Direta)
 
 <div align="center">
-  <!-- ÍCONES 3D (APENAS EXIBIÇÃO DIRETA, SEM REDIRECIONAMENTO) -->
+  <!-- ÍCONES 3D EM GRADE -->
   <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/java.png" alt="Java" width="55" height="55" />
   <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/spring_boot.png" alt="Spring Boot" width="55" height="55" />
   <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/python.png" alt="Python" width="55" height="55" />
@@ -79,6 +91,15 @@
 
 <hr>
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeSeiji&show_icons=true&theme=dark&title_color=00f5d4&text_color=ffffff&icon_color=00f5d4&bg_color=0d1117&border_color=00f5d4&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSeiji&layout=compact&theme=dark&title_color=00f5d4&text_color=ffffff&bg_color=0d1117&border_color=00f5d4&hide_border=false" alt="Linguagens mais utilizadas" />
+</div>
+
+<hr>
+
 <!-- INTERAÇÃO NATIVA DE EXPANDIR AO CLICAR -->
 <details>
   <summary><b>🛠️ Ver Setup & Ambiente de Desenvolvimento (Clique para expandir)</b></summary>
@@ -94,7 +115,13 @@
 
 ### 📬 Conecte-se Comigo
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=plastic&logo=github&logoColor=white" height="38" />
+  <a href="https://linkedin.com/in/felipe-seiji-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fenishina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="38" alt="Email" />
+  </a>
+  <a href="https://github.com/FelipeSeiji" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=plastic&logo=github&logoColor=white" height="38" alt="GitHub" />
+  </a>
 </div>
