@@ -16,7 +16,7 @@
 <!-- GRÁFICO 3D ISOMÉTRICO -->
 <div align="center">
   <h3>🏙️ Gráfico Isométrico 3D de Commits</h3>
-  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/isometric-contributions/isometric-contributions.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/FelipeSeiji/FelipeSeiji/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <hr>
