@@ -12,10 +12,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi3860/github-profile-3d-contrib@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: FelipeSeiji
+      - uses: joshmk/github-isometric-contributions@main
+        with:
+          user_name: FelipeSeiji
       - name: Commit & Push
         run: |
           git config user.name github-actions
